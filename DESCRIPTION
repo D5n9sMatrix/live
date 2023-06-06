@@ -1,0 +1,25 @@
+# live platform 
+
+LOL, that documentation page is totally out of sync with ansible-core, which nolonger runs on 2.x, as it requires 3.8
+i am not sure where this docs comes from
+probably due to confusions about requirements for ansible runtime, and for remote hosts, which are different.
+from the linter perspective we only care about where ansible-core runs, as we need it. we don't connect to any remote hosts.
+
+LOL, that documentation page is totally out of sync with ansible-core, which nolonger runs on 2.x, as it requires 3.8
+it's the first result when searching for "ansible supported python versions"
+
+ personally don't mind dropping 3.6/3.7 but why keep 3.8? It got the same python support status. 
+Is it N/N-2 or just a "follow the community" approach?
+
+though the google apps are configured by adding panels to the settings, so it's kinda but not really part of the settings
+
+lul
+indeed
+now i killed it
+so if I type into google search "weather in" and then start typing various city names
+it shows the temperature in the suggest bar
+but if while I'm doing it, I change the temperature unit on my phone, it switches the lookups
+so now it has some cities cached in fahrenheit and some in celsius
+
+good to know those updates propagate that quickly
+but then, it's a weather setting, you'd hope it happens in the cloud
